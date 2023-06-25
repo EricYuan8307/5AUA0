@@ -140,8 +140,6 @@ data/*
 model.pth
 .idea
 
-# ignore config
-config.py
 
 
 .idea/
