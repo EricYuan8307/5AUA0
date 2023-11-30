@@ -1,10 +1,6 @@
 # 5AUA0
 Deep Learning Using Advanced Sensing
-
 ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation
-# 5AUA0 Template
-
-This template contains a minimal implementation of a convolutional neural network for image classification.
 
 ## Requirements
 This code has been tested with the following versions:
